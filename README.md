@@ -1,12 +1,46 @@
-# React + Vite
+# Bank Account UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was created as part of the interview process for Backpack, a payments infrastructure company that helps streamline the process of universities receiving external funds. It is a React application for securely displaying bank account information, balances, and transaction history.
 
-Currently, two official plugins are available:
+## Demo
+TBD
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Minimum Project Requirements (MVP)
+- UI for displaying, concealing, and copying account and routing numbers.
+- UI for displaying the current and available balance.
+- UI for displaying transactions.
+- README that explains my decisions and design choices and also includes instructions on how to run the application.
+- Build the web app using React.
 
-## Expanding the ESLint configuration
+## Stretch Goals
+- Create a clean UI using TailwindCSS
+- Copy-to-clipboard functionality
+- Toggle visibility for sensitive information
+- Currency formatting
+- Responsive layout
+- Graceful loading states (Loading...)
+- Error handling if the API fails
+- Filter/Search transactions
+- Extra mile UI touches: icons, tooltips, hover effects, clean whitespace
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+TBD
+
+## Tech Stack
+React + Vite
+TailwindCSS
+
+## Setup Instuctions
+TBD
+
+## Designs Decisions
+TBD
+
+## File Structure
+TBD
+
+## Future Improvements
+TBD
+
+## License
+TBD
