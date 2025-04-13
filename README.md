@@ -30,8 +30,8 @@ TBD
 TBD
 
 ## Tech Stack
-React + Vite
-TailwindCSS
+- React + Vite
+- TailwindCSS
 
 ## Setup Instuctions
 TBD
