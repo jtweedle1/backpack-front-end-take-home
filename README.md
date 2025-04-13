@@ -5,6 +5,9 @@ This project was created as part of the interview process for Backpack, a paymen
 ## Demo
 TBD
 
+## Figma Wireframe
+![Wireframe](public/figma.png)
+
 ## Minimum Project Requirements (MVP)
 - UI for displaying, concealing, and copying account and routing numbers.
 - UI for displaying the current and available balance.
